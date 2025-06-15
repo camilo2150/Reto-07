@@ -1,0 +1,8 @@
+{
+    "Hamburguesa": {"price": 12.0, "type": "MainCourse"},
+    "Pizza": {"price": 15.0, "type": "MainCourse"},
+    "Refresco": {"price": 3.0, "type": "Beverage"},
+    "Agua": {"price": 2.0, "type": "Beverage"},
+    "Helado": {"price": 5.0, "type": "Dessert"},
+    "Pastel": {"price": 6.0, "type": "Dessert"}
+}
